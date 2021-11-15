@@ -27,7 +27,7 @@
 
 4.10.5
 
-![uts4 10 5](https://user-images.githubusercontent.com/92988781/141729537-97f0b0f9-9e93-46d4-af92-063c1366c576.png)
+![uts5 0](https://user-images.githubusercontent.com/92988781/141749078-4d7d2e2d-98a4-45ff-8200-1ec8664bba54.png)
 
-![output4 10 5](https://user-images.githubusercontent.com/92988781/141729571-9818f544-551f-4198-9eeb-87858acaee6d.png)
+![uts5 1](https://user-images.githubusercontent.com/92988781/141749117-de7763ce-f837-421d-9206-389395bbd726.png)
 
